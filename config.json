@@ -1,0 +1,11 @@
+{
+    "host": "http://127.0.0.1:8081/api/v1",
+    "abs": [
+        {
+            "path": "/rooms/3/status",
+            "method": "get",
+            "requests": 5,
+            "concurrency": 3
+        }
+    ]
+}
